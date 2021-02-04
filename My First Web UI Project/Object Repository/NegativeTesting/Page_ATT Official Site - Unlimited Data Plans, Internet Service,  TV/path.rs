@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>69db2758-817a-4ee2-9e39-b83786f78c94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M10.725,10 C12.5996648,7.7380802 12.3657415,4.40219847 10.1937484,2.42404396 C8.02175532,0.445889449 4.67859242,0.523920523 2.60125647,2.60125647 C0.523920523,4.67859242 0.445889449,8.02175532 2.42404396,10.1937484 C4.40219847,12.3657415 7.7380802,12.5996648 10,10.725 L14.13,14.855 L14.84,14.145 L10.725,10 Z M6.49999998,11 C4.01471861,11 1.99999998,8.98528138 1.99999998,6.49999998 C1.99999998,4.01471861 4.01471861,1.99999998 6.49999998,1.99999998 C8.98528138,1.99999998 11,4.01471861 11,6.49999998 C11,8.98528138 8.98528138,11 6.49999998,11 L6.49999998,11 Z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchForm&quot;)/button[@class=&quot;gn-search-btn search-active-mobile search-active&quot;]/svg[1]/g[1]/g[1]/g[2]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
